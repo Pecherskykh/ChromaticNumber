@@ -1,0 +1,13 @@
+E:\Учб\На заказ\ChromaticNumber\ChromaticNumber\bin\Debug\ChromaticNumber.exe.config
+E:\Учб\На заказ\ChromaticNumber\ChromaticNumber\bin\Debug\ChromaticNumber.exe
+E:\Учб\На заказ\ChromaticNumber\ChromaticNumber\bin\Debug\ChromaticNumber.pdb
+E:\Учб\На заказ\ChromaticNumber\ChromaticNumber\bin\Debug\BusinessLogicLayer.dll
+E:\Учб\На заказ\ChromaticNumber\ChromaticNumber\bin\Debug\BusinessLogicLayer.pdb
+E:\Учб\На заказ\ChromaticNumber\ChromaticNumber\obj\Debug\ChromaticNumber.csprojAssemblyReference.cache
+E:\Учб\На заказ\ChromaticNumber\ChromaticNumber\obj\Debug\ChromaticNumber.Properties.Resources.resources
+E:\Учб\На заказ\ChromaticNumber\ChromaticNumber\obj\Debug\ChromaticNumber.csproj.GenerateResource.cache
+E:\Учб\На заказ\ChromaticNumber\ChromaticNumber\obj\Debug\ChromaticNumber.csproj.CoreCompileInputs.cache
+E:\Учб\На заказ\ChromaticNumber\ChromaticNumber\obj\Debug\ChromaticNumber.csproj.CopyComplete
+E:\Учб\На заказ\ChromaticNumber\ChromaticNumber\obj\Debug\ChromaticNumber.exe
+E:\Учб\На заказ\ChromaticNumber\ChromaticNumber\obj\Debug\ChromaticNumber.pdb
+E:\Учб\На заказ\ChromaticNumber\ChromaticNumber\obj\Debug\ChromaticNumber.Form1.resources
